@@ -3,21 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="294e8551-48fb-464e-b4ed-684e27bfbdd8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/py-test/helloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-test/py-test.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/hannuo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/hellowangba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/hellowmyson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/hellowpython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/hellowwasabi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/hellowxiexun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/hello王八蛋.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/shabi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/tf_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/tf_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/tf_3/backword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/tf_3/forward.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/tf_3/generate_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py-test/py-test.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/py-test/py-test.xcodeproj/project.pbxproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensorflow/hellowmyson.py">
+        <entry file="file://$PROJECT_DIR$/py-test/hellowmyson.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -47,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/py-test" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -68,6 +54,7 @@
         <option value="$PROJECT_DIR$/tensorflow/tf_3/generate_dataset.py" />
         <option value="$PROJECT_DIR$/tensorflow/tf_3/backword.py" />
         <option value="$PROJECT_DIR$/tensorflow/hellowmyson.py" />
+        <option value="$PROJECT_DIR$/py-test/hellowmyson.py" />
       </list>
     </option>
   </component>
@@ -82,8 +69,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="118" />
+    <option name="x" value="10" />
+    <option name="y" value="63" />
     <option name="width" value="1260" />
     <option name="height" value="681" />
   </component>
@@ -106,7 +93,7 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="py-test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,6 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -280,15 +268,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="118" width="1260" height="681" extended-state="0" />
+    <frame x="10" y="67" width="1260" height="681" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39898133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,48 +350,12 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensorflow/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/hannuo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/hellowangba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/hello王八蛋.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/hellowwasabi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/hellowpython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/test" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/hannuo.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/hellowangba.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/hello王八蛋.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/hellowwasabi.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/hellowpython.py" />
     <entry file="file://$PROJECT_DIR$/tensorflow/tf2_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -437,20 +389,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/shabi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/hellowxiexun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/shabi.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/hellowxiexun.py" />
     <entry file="file://$PROJECT_DIR$/tensorflow/tf_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -491,10 +431,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/hellowmyson.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow/hellowmyson.py" />
+    <entry file="file://$PROJECT_DIR$/py-test/hellowmyson.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
